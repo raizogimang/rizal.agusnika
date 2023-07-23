@@ -1,2 +1,3 @@
 # rizal.agusnika.json
-Akun Instagram ter verifikasi
+["rizal.agusnika","rizal.agusnika","rizal.agusnika"]
+["rizal.agusnika","rizal.agusnika","rizal.agusnika"]
