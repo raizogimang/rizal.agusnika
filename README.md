@@ -1,2 +1,2 @@
-# rizal.agusnika
+# rizal.agusnika.json
 Akun Instagram ter verifikasi
